@@ -1,0 +1,18 @@
+<resources>
+    <!-- default for texts / buttons -->
+    <dimen name="text_size_default">16sp</dimen>
+
+    <!-- extra small: example month / year in listview -->
+    <dimen name="text_size_extra_small">10sp</dimen>
+
+    <!-- small: add on to text - example category in listview -->
+    <dimen name="text_size_small">13sp</dimen>
+
+    <!-- medium: headers - example Financeitem name in listview -->
+    <dimen name="text_size_medium">18sp</dimen>
+
+    <!-- big: extra big elements - example Day in listview -->
+    <dimen name="text_size_big">22sp</dimen>
+
+    <dimen name="defaultHeight">60dp</dimen>
+</resources>

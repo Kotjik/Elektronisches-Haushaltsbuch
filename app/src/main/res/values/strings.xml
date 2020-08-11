@@ -1,0 +1,76 @@
+<resources>
+    <!-- app and navigation -->
+    <string name="app_name">E-Haushaltsbuch</string>
+    <string name="title_home">Übersicht</string>
+    <string name="title_statistic">Statistik</string>
+    <string name="title_list">Zahlungen</string>
+    <string name="add">+</string>
+
+    <!-- Input -->
+    <string name="income">Einnahme</string>
+    <string name="expenditure">Ausgabe</string>
+    <string name="name">Bezeichnung eingeben</string>
+    <string name="value">Betrag eingeben</string>
+    <string name="date">Datum wählen</string>
+    <string name="time">Uhrzeit wählen</string>
+    <string name="note">Notiz hinzufügen</string>
+    <string name="picture">Foto</string>
+    <string name="dialogMessage">Foto aufnehmen oder aus Gallerie wählen?</string>
+    <string name="addFoto">Foto hinzufügen</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Gallerie</string>
+    <string name="inputOutput">Bei der Buchung handelt es sich um eine </string>
+    <string name="nameMenu">Welche Bezeichnung soll die Buchung erhalten?</string>
+    <string name="valueMenu">Welcher Betrag soll für die Buchung gespeichert werden?</string>
+    <string name="dateMenu">An welchem Tag wurde die Buchung durchgeführt?</string>
+    <string name="timeMenu">Zu welcher Zeit wurde die Buchung durchgeführt?</string>
+    <string name="noteMenu">Soll eine Notiz zur Buchung hinzugefügt werden?</string>
+    <string name="category">Welcher Kategorie soll die Buchung zugeordnet werden?</string>
+    <string name="pictureMenu">Soll ein Foto zur Buchung hinzugefügt werden?</string>
+    <string name="previous">Zurück</string>
+    <string name="next">Weiter</string>
+    <string name="save">Speichern</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="delete">Löschen</string>
+    <string name="errorMessage">Feld darf nicht leer sein!</string>
+    <string name="mandatoryField">Pflichtfeld</string>
+
+    <!-- Input category spinner-->
+    <string-array name="spinnerArray">
+        <item>Einkauf</item>
+        <item>Miete</item>
+        <item>Nebenkosten</item>
+        <item>Tanken</item>
+        <item>Lohn</item>
+        <item>Gutschrift</item>
+        <item>Sonstiges</item>
+        <item>keine Auswahl</item>
+    </string-array>
+
+    <!-- BookingDetails & ChangeActivity -->
+    <string name="bookingName">Bezeichnung</string>
+    <string name="bookingAmount">Betrag</string>
+    <string name="bookingDate">Datum</string>
+    <string name="bookingTime">Uhrzeit</string>
+    <string name="bookingNote">Notiz</string>
+    <string name="bookingCategory">Kategorie</string>
+    <string name="nothing_available">-</string>
+
+    <!-- HomeFragment -->
+    <string name="overview">Übersicht</string>
+    <string name="monthAndYear">Monat Jahr</string>
+    <string name="saldo">Saldo</string>
+    <string name="incomeHome">Einnahmen</string>
+    <string name="expenditureHome">Ausgaben</string>
+    <string name="placeHolder">€€€</string>
+    <string name="lastTransactions">Transaktionen in diesem Monat:</string>
+    <string name="databaseEmpty">Datenbank leer</string>
+    <string name="footer_text">Keine weiteren Einträge vorhanden</string>
+
+    <!-- Statistics -->
+    <string name="statFrom">1.1.2020</string>
+    <string name="statPlus">Einnahmen</string>
+    <string name="statMinus">Ausgaben</string>
+    <string name="statCancel">Abbrechen</string>
+    <string name="statOK">Anwenden</string>
+</resources>

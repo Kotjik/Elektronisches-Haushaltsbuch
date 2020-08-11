@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#9C27B0</color>
+    <color name="textColor">#616161</color>
+    <color name="navBackgroundColor">#c2c2c2</color>
+    <color name="white">#FFFFFF </color>
+    <color name="green">#43A047</color>
+    <color name="red">#E53935</color>
+    <color name="black">#000000</color>
+    <color name="buttonPressed">#c6cceb</color>
+</resources>

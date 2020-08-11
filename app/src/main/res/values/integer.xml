@@ -1,0 +1,6 @@
+<resources>
+    <integer name="statFilterMonthBefore">1</integer>
+    <integer name="statAxisSizeLarge">18</integer>
+    <integer name="statAxisSizeSmall">12</integer>
+    <integer name="statShortenSize">5</integer>
+</resources>
